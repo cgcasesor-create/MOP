@@ -1,0 +1,8 @@
+[project]
+name = "lexobra360"
+version = "0.1.0"
+description = "Motor de gestión y auditoría legal de contratos de obras públicas (MOP - Vialidad)"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
